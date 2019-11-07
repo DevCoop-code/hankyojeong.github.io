@@ -20,7 +20,7 @@ title                    : "Hankyo's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hankyo Jeong"
-description              : "An amazing website."
+description              : "Explore IT Technology"
 url                      : "https://hankyojeong.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HanKyo Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hello, I am SoftWare Engineer!!"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
