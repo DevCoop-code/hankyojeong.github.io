@@ -1,6 +1,6 @@
 ---
-title: "How to make github blog"
-date: 2019-11-08 02:47:00
+title: "How to make github Blog"
+date: 2019-11-08 02:55:00
 categories: test GithubBlog
 ---
 
