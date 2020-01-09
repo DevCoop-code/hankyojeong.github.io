@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hankyo's Tech Blog"
+title                    : "Hankyo's DevLog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hankyo Jeong"
-description              : "Explore IT Technology"
+description              : "Software Developer"
 url                      : "https://hankyojeong.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "HanKyo Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello I am software engineerer in Seoul"
+  bio              : "Software engineerer"
   location         : "Seoul"
   email            :
   links:
