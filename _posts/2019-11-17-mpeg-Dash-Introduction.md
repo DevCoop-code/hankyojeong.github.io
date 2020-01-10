@@ -1,6 +1,6 @@
 ---
 title: "Introduction about DASH Streaming protocol"
-date: 2019-11-17 12:38:00
+date: 2020-01-10 10:40:00
 categories: mediaProtocol
 ---
 
