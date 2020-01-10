@@ -9,7 +9,7 @@ DASH는 mpeg에서 만든 HTTP를 통해 만든 Streaming을 위한 프로토콜
 
 ## MPD Structure
 MPD란 XML 기반의 Media Presentation Description의 약자로 DASH는 MPD구조로 구성.<br>
-![mpdStructure](assets/images/imageStorage/MPDStructure.png)
+![mpdStructure](https://hankyojeong.github.io/assets/images/MPDStructure.png)
 
 * MPD<br>
 Media Presentation을 구성하는 시간 순서
