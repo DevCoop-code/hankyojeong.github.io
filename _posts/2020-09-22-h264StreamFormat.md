@@ -32,6 +32,8 @@ NALU type은 19개의 서로 다른 타입들이 존재하고 각 타입들은 *
 4. AUD(Access Unit Delimiter)
    - Optional NALU
    - 프레임을 기본 스트림으로 구분하는데 사용
+
+
 ## AnnexB
 첫 시작을 3bytes(0x00 00 01) 혹은 4bytes(0x00 00 00 01)의 Header로 시작, 이를 기준으로 NALU를 분리함 <br>
 header 이후 1바이트를 통해 NALU의 type을 알 수 있음
