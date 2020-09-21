@@ -1,5 +1,5 @@
 ---
-title: "Bounds vs Frame"
+title: "iOS App LifeCycle"
 date: 2020-09-22 01:53:00
 categories: iOS
 ---
